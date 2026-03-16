@@ -1,0 +1,10 @@
+# 1. Chặn thư mục cache của Python (Cái này tự sinh ra khi chạy code)
+__pycache__/
+*.py[cod]
+
+# 2. Chặn thư mục cấu hình ẩn của VS Code 
+.vscode/
+
+# 3. Chặn các file rác của hệ thống (Nếu có)
+.DS_Store
+Thumbs.db
